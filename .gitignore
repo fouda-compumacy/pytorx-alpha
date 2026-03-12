@@ -1,0 +1,29 @@
+# dataset
+data
+
+# Visual Studio Code files
+.vscode
+.vs
+
+# JetBrains IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# ignore compiled python
+__pycache__/
+*.pyc
+
+# model checkpoints
+*.pth.tar
+
+# virtual environment
+venv/
+
+# build artifacts
+doc/build/
+doc/source/_build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
